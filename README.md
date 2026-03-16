@@ -22,5 +22,11 @@ staged — файл добавлен в индекс, готов к коммит
 
 tracked — файл уже отслеживается Git
 
+git status          # посмотреть состояние файлов
+git add .           # добавить изменения
+git commit -m "..." # создать коммит
+git log             # полная история
+git log --oneline   # краткая история
+
 `git clone https://github.com/PraktikumJava/git-hints.git`
 /System/Library/CoreServices/Finder.app/Contents/Resources/MyLibraries/myDocuments.cannedSearch
