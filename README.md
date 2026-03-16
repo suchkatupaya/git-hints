@@ -28,5 +28,7 @@ git commit -m "..." # создать коммит
 git log             # полная история
 git log --oneline   # краткая история
 
+Cтили оформления сообщений: например: Добавить раздел про HEAD, Дополнить информацию про git log, Add user entity, Fix login bug
+
 `git clone https://github.com/PraktikumJava/git-hints.git`
 /System/Library/CoreServices/Finder.app/Contents/Resources/MyLibraries/myDocuments.cannedSearch
